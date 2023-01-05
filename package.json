@@ -5,7 +5,7 @@
   "main": "public/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "nodemon": "nodemon public/index.js"
+    "start": "node public/index.js"
   },
   "keywords": [],
   "author": "",
